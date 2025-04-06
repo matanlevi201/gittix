@@ -1,3 +1,21 @@
+# GitTix
+
+> A ticketing platform that allows users to securely create and purchase tickets using Stripe integration. The system is architected using a distributed microservices approach, following industry best practices. It features comprehensive backend testing and automated test workflows via GitHub Actions.
+> 
+
+![set](https://github.com/user-attachments/assets/bc2253a8-a44e-46ed-b039-a62dd3022938)
+
+### 🚀 Tech Stack
+
+- **React.js** – Frontend framework for building fast, modern web apps
+- **Express** – Lightweight Node.js framework for building microservices and REST APIs
+- **NATS Streaming Server** – Message broker for reliable, event-driven communication between services
+- **MongoDB** – NoSQL database for storing ticket, order, and user data
+- **Jest** – JavaScript testing framework for unit and integration tests across services
+- **Docker** – Containerization platform to package and isolate each microservice
+- **Skaffold** – Local Kubernetes development tool for continuous deployment and workflow automation
+- **Kubernetes (K8s)** – Container orchestration system to manage, scale, and deploy microservices in a distributed environment
+  
 # Hosts Tweak
 
 1. Open a text editor in administration mode.
